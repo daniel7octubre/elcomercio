@@ -1,0 +1,6 @@
+El proyecto slim se encuentra comprimido sin vendor, 
+para completar el proyecto se deberia realizar el composer update correspondiente,
+el servicio web hace uso del web service de soap( zend framework ), 
+por favor active el soap de su servidor de pruebas
+
+El servicio si funciono en mi local espero que tambien el suyo cualquier consulta llameme : 965265271 cel claro
